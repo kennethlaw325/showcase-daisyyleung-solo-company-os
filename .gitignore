@@ -1,0 +1,19 @@
+node_modules/
+.next/
+coverage/
+.vercel/
+.env
+.env.local
+.env.*.local
+*.log
+*.tsbuildinfo
+.DS_Store
+supabase/.temp/
+.vercel
+.env*
+
+# Local generated audit payloads and linked worktrees; retain on disk, exclude from uploads.
+/.worktrees/
+/artifacts/
+/loopforge/
+out/

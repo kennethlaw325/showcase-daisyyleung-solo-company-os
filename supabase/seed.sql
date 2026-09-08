@@ -1,0 +1,2 @@
+-- Intentionally empty: local and CI verification use transaction-scoped pgTAP fixtures.
+-- Never seed customer, pilot, OAuth, or production-derived content here.
